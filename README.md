@@ -7,7 +7,7 @@ Cross-Modal Deepfake Detection using Video + Audio.
 - F1 Score: 97.98%
 - Dataset: LAV-DF (Localized Audio Visual Deepfake Dataset)
 
-![Training Output](output.png)
+![Training Output](output.jpeg)
 
 ## How it works
 1. Video se 16 frames nikalte hain - ResNet18 se features
